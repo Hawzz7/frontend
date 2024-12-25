@@ -1,5 +1,5 @@
-import FavouriteJokesPage from "./FavouriteJokesPage";
-import JokesPage from "./jokesPage";
+import FavouriteJokesPage from "./FavouriteJokesPage.jsx";
+import JokesPage from "./JokesPage.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
